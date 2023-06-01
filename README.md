@@ -4,13 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/Rayat-ullah/fashion_app/assets/90436318/f88c34c2-5547-4a5b-a8b7-cc4875109e7c)
+![2](https://github.com/Rayat-ullah/fashion_app/assets/90436318/7fb37fe5-c0da-4020-a595-54997e3da747)
